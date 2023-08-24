@@ -2,11 +2,11 @@
 
 ###
 
-<img align="right" height="156" src="https://mrakshayas.github.io/Js/Dp.jpg"  />
+<h2 align="center">A passionate Fullstack developer & Graphic designer.</h2>
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MrAkshayAS.MrAkshayAS&left_color=lightseagreen&right_color=lightslategray&left_text=Profile Views"  />
+<img align="right" height="156" src="https://mrakshayas.github.io/Js/Dp.jpg"  />
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning React Native<br><br>💬 Ask me about MERN,Web Development,Graphic Design,UI/UX</p>
+<p align="left">🌱 I’m currently learning 3D Web Development.<br><br>💬 Ask me about MERN,Web Development,Graphic Design,UI/UX.</p>
 
 ###
 
@@ -87,6 +87,18 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrAkshayAS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="170" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=MrAkshayAS&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph"  />
+</div>
+
+###
+
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MrAkshayAS.MrAkshayAS&left_color=darkcyan&right_color=lightslategray&left_text=Profile Views"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
 ###
