@@ -92,7 +92,8 @@
 ###
 
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MrAkshayAS.MrAkshayAS&left_color=darkcyan&right_color=lightslategray&left_text=Profile Views"  />
+   <img src="https://komarev.com/ghpvc/?username=mrakshayas&label=Profile%20views&color=0e75b6&style=flat" alt="mrakshayas" />
+<!--   <img src="https://visitor-badge.laobi.icu/badge?page_id=MrAkshayAS.MrAkshayAS&left_color=darkcyan&right_color=lightslategray&left_text=Profile Views"  /> -->
 </div>
 
 ###
