@@ -91,8 +91,3 @@
 
 ###
 
-<div align="right">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=dark" alt="Layout with last medium posts"  />
-</div>
-
-###
