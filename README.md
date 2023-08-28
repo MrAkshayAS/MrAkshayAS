@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning 3D Web Development.<br><br>💬 Ask me about MERN,Web Development,Graphic Design,UI/UX.</p>
+<p align="left">💬 Ask me about MERN,Web Development,Graphic Design,UI/UX.<br><br>🌱 I’m currently learning 3D Web Development.</p>
 
 ###
 
