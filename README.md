@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">A passionate Fullstack developer & Graphic designer.</h2>
+<h2 align="center">A passionate Fullstack developer, Graphic designer & UI/UX.</h2>
 
 ###
 
