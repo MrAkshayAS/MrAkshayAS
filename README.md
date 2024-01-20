@@ -6,7 +6,6 @@
 
 ###
 
-<img align="right" height="156" src="https://mrakshayas.github.io/portfolio/Dp.jpg"  />
 
 ###
 
