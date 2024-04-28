@@ -31,7 +31,7 @@
 
 ###
 
-<h3 align="left">🛰 Development Toolkit :</h3>
+<h3 align="left">🛰 Design & Development Toolkit :</h3>
 
 ###
 
@@ -69,15 +69,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="33" alt="nginx logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="33" alt="npm logo"  />
-</div>
-
-###
-
-<h3 align="left">🛰 Design Toolkit :</h3>
-
-###
-
-<div align="left">
+ <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="33" alt="photoshop logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="33" alt="figma logo"  />
@@ -86,7 +78,7 @@
 </div>
 
 ###
-
+<h1></h1>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrakshayas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=mrakshayas&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
