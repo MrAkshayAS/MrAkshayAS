@@ -45,11 +45,6 @@
 
 ##
 
-## 📈 GitHub Stats
-
-![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrAkshayAS&show_icons=true&theme=radical)
-
-##
 ## 🔗 Connect with Me
 
 <div align="left">
