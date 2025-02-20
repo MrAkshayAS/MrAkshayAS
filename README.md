@@ -61,8 +61,3 @@
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a> -->
 </div>
-
-## 
-![Project Views](https://komarev.com/ghpvc/?username=mraxays&color=E34F26)
-
-##
